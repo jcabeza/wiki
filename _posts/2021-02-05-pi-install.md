@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Install a Raspberry PI
+title:  "Install a Raspberry PI"
 date:   2021-02-05
 categories: Raspbian RaspberryPI
 ---
