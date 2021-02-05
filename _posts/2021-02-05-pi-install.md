@@ -8,7 +8,7 @@ Raspberry PI installation on linux debian 10 (Raspbian) and configuration.
 * Do not remove this line (it will not be displayed) 
 {:toc}
 
-# ⚙️ RPi Operating System
+# RPi Operating System
 
 Here's a list of Operating System for Raspberry PI :
 
@@ -39,7 +39,7 @@ under development
 
 This specific configuration can be configured after boot by connecting via ssh.
 
-# ⚙️ RPi Hostname
+# RPi Hostname
 
 Change the hostname on RPI :
 
@@ -55,7 +55,7 @@ sudo hostname
 
 Reboot after change hostname.
 
-# 📡 RPi Network
+# RPi Network
 
 Here's a how to configuration for static ip and DNS Servers :
 
@@ -85,7 +85,7 @@ Reboot after change network configuration.
 
 *The ip address/dns can also be set via the external dhcp server (box, ap, dhcp).*
 
-# 🧰 RPi Operating System & Package Update
+# RPi Operating System & Package Update
 
 For update OS and Packages run :
 
@@ -95,7 +95,7 @@ sudo apt update && apt upgrade -y
 
 Reboot after updates if necessary.
 
-# 🧰 RPi Basics Packages
+# RPi Basics Packages
 
 For install basics packages run :
 
@@ -103,7 +103,7 @@ For install basics packages run :
 sudo apt install htop locate git vim pv -y
 ```
 
-# ⚔️ RPi Basic System Security
+# RPi Basic System Security
 
 ## User Settings
 
@@ -222,7 +222,7 @@ Reload .bashrc :
 source ~/.bashrc (reload user .bashrc)
 ```
 
-# 😈 RPi Advanced Security
+# RPi Advanced Security
 
 ## IPTables & UFW
 
@@ -470,7 +470,7 @@ sudo systemctl enable/disable <service>
 
 [Linux Hardening Checklist](https://linuxhint.com/linux_security_hardening_checklist/)
 
-# 🔧 Rpi Others
+# Rpi Others
 
 Raspberry PI Configuration :
 
