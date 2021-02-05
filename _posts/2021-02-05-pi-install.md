@@ -105,7 +105,7 @@ sudo apt install htop locate git vim pv -y
 
 # RPi Basic System Security
 
-## User Settings
+### User Settings
 
 Create a new user :
 
@@ -127,7 +127,7 @@ Edit **/etc/sudoers** file and add :
 username ALL=(ALL) PASSWD: ALL
 ```
 
-## Secure Shell (SSH)
+### Secure Shell (SSH)
 
 Edit the SSH configuration **/etc/ssh/sshd_config** and add :
 
