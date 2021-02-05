@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🚀 Install RaspberryPI"
+title:  "🚀Install Raspberry PI"
 ---
 
 Raspberry PI installation on linux debian 10 (Raspbian) and configuration.
