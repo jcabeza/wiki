@@ -57,6 +57,23 @@ Reboot after change hostname.
 
 # RPi Network
 
+Here's a how to configuration for static ip and DNS Servers :
+
+Edit the **dhcp.conf** file on /etc/dhcp.conf
+
+```bash
+interface eth0
+static ip_address=192.168.1.10/24
+static routers=192.168.1.1
+static domain_name_servers=192.168.1.1
+	
+OR
+	
+interface wlan0
+static ip_address=192.168.1.10/24
+static routers=192.168.1.1
+static domain_name_servers=192.168.1.1
+```
 
 
 # RPi Operating System & Package Update
