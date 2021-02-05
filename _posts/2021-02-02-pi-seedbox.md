@@ -1,1 +1,19 @@
-#
+---
+layout: post
+title:  "Install Seedbox"
+---
+
+Seedbox installation on linux debian 10 (Raspbian) and configuration.
+
+* Do not remove this line (it will not be displayed) 
+{:toc}
+
+# Install Raspberry Pi
+
+Please take a look at the following documentation for the installation and configuration of your Raspberri Pi :
+
+https://jcabeza.github.io/wiki/2021/02/05/pi-install.html
+
+# Install ruTorrent
+
+![40% center](https://ak0.picdn.net/shutterstock/videos/21934900/thumb/7.jpg)
