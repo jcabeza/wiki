@@ -5,6 +5,9 @@ title:  "🚀 Install Raspberry PI"
 
 Raspberry PI installation on linux debian 10 (Raspbian) and configuration.
 
+* Do not remove this line (it will not be displayed) 
+{:toc}
+
 # ⚙️ RPi Operating System
 
 Here's a list of Operating System for Raspberry PI :
