@@ -8,7 +8,7 @@ Raspberry PI installation on linux debian 10 (Raspbian) and configuration.
 <img src="https://img.shields.io/badge/Autor-Jos%C3%A9%20CABEZA-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
 
-# RPi Operating System
+# ⚙️ RPi Operating System
 
 Here's a list of Operating System for Raspberry PI :
 
@@ -39,7 +39,7 @@ under development
 
 This specific configuration can be configured after boot by connecting via ssh.
 
-# RPi Hostname
+# ⚙️ RPi Hostname
 
 Change the hostname on RPI :
 
@@ -55,7 +55,7 @@ sudo hostname
 
 Reboot after change hostname.
 
-# RPi Network
+# 📡 RPi Network
 
 Here's a how to configuration for static ip and DNS Servers :
 
@@ -95,7 +95,7 @@ sudo apt update && apt upgrade -y
 
 Reboot after updates if necessary.
 
-# RPi BasicsPackages
+# 🧰 RPi Basics Packages
 
 For install basics packages run :
 
@@ -103,9 +103,9 @@ For install basics packages run :
 sudo apt install htop locate git vim pv -y
 ```
 
-# RPi Basic System Security
+# ⚔️ RPi Basic System Security
 
-### User Settings
+## User Settings
 
 Create a new user :
 
@@ -127,7 +127,7 @@ Edit **/etc/sudoers** file and add :
 username ALL=(ALL) PASSWD: ALL
 ```
 
-### Secure Shell (SSH)
+## Secure Shell (SSH)
 
 Edit the SSH configuration **/etc/ssh/sshd_config** and add :
 
@@ -222,7 +222,7 @@ Reload .bashrc :
 source ~/.bashrc (reload user .bashrc)
 ```
 
-# RPi Advanced Security
+# 😈 RPi Advanced Security
 
 ## IPTables & UFW
 
@@ -470,7 +470,7 @@ sudo systemctl enable/disable <service>
 
 [Linux Hardening Checklist](https://linuxhint.com/linux_security_hardening_checklist/)
 
-# Rpi Others
+# 🔧 Rpi Others
 
 Raspberry PI Configuration :
 
