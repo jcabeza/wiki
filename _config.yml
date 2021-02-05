@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Hagura - Light!
+title: wiki
 baseurl: /hagura # name of the repository
 email: your@email.com
 
@@ -14,10 +14,10 @@ paginate: 4
 
 
 # Tracker
-analytics: UA-83979019-4
+analytics:
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname:
 
 
 #optimization
