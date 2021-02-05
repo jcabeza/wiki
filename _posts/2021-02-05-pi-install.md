@@ -478,5 +478,7 @@ Raspberry PI Configuration :
 raspi-config
 ```
 
+---
+
 <img src="https://img.shields.io/badge/Autor-Jos%C3%A9%20CABEZA-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
