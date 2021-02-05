@@ -477,13 +477,3 @@ Raspberry PI Configuration :
 ```bash
 raspi-config
 ```
-
- ---
-
-You can still do it if you haven't yet,
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/jcabeza/wiki" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star jcabeza/wiki on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-Thank you.
