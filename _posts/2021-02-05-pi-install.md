@@ -85,7 +85,7 @@ Reboot after change network configuration.
 
 *The ip address/dns can also be set via the external dhcp server (box, ap, dhcp).*
 
-# RPi Operating System & Package Update
+# 🧰 RPi Operating System & Package Update
 
 For update OS and Packages run :
 
