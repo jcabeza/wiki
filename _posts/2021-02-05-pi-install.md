@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Install Raspberry PI"
+title:  "🚀 Install Raspberry PI"
 ---
 
 Raspberry PI installation on linux debian 10 (Raspbian) and configuration.
-
-<img src="https://img.shields.io/badge/Autor-Jos%C3%A9%20CABEZA-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
 
 # ⚙️ RPi Operating System
 
@@ -477,3 +474,6 @@ Raspberry PI Configuration :
 ```bash
 raspi-config
 ```
+
+<img src="https://img.shields.io/badge/Autor-Jos%C3%A9%20CABEZA-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
