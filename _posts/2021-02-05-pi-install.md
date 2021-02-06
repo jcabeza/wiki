@@ -199,6 +199,15 @@ Management IP ..... 192.168.1.x
 -------------------------------------------------------------------------------
 ```
 
+```bash
+We trust you have received the usual lecture from the local System       
+Administrator. It usually boils down to these three things:
+
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
+```
+
 Or create one : http://asciiflow.com/
 
 Restart ssh services after change configuration :
