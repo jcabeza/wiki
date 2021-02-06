@@ -14,6 +14,29 @@ Please take a look at the following documentation for the installation and confi
 
 https://jcabeza.github.io/wiki/2021/02/05/pi-install.html
 
+# Kimsufi Server (optional)
+
+Server Model & installation :
+
+```bash
+Model : KS-3 - Atom N2800 - 4GB DDR3 1066 MHz - 2 To SATA
+```
+
+For install server follow the step by step on Kimsufi portal.
+
 # Install ruTorrent
 
-![40% center](https://ak0.picdn.net/shutterstock/videos/21934900/thumb/7.jpg)
+For install ruTorrent follow this link :
+
+https://mondedie.fr/d/10831-tuto-installer-rutorrent-sur-debian-10-nginx-php-fpm
+
+If Public Key Errors (**NO_PUBKEY**) :
+
+```bash
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys B188E2B695BD4743
+```
+
+For change the theme to material design theme follow this link :
+
+https://www.noobunbox.net/noobunschool/seedbox/theme-material-design-rutorrent
+https://github.com/themightykitten/ruTorrent-MaterialDesign
