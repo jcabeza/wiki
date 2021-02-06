@@ -27,6 +27,13 @@ sass:
 include:
   - _pages
 
+# Generate social links in footer
+social_links:
+  twitter: jcabeza_1
+  github:  jcabeza
+  linkedIn: in/josecabeza
+  rss: rss
+
 exclude:
   - README.md
   - LICENSE.md
