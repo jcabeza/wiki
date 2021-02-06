@@ -23,28 +23,5 @@ The best part is the night-mode that comes with this theme. Once you click on ni
 * Your new site should be ready at https://username.github.io/hagura/
 
 
-Default theme will look like this
-
-![webjeda hagura jekyll theme]({{site.baseurl}}/assets/images/hagura-1.png)
-
-Switch to Dark Theme
-
-![webjeda hagura dark jekyll theme]({{site.baseurl}}/assets/images/hagura-dark-jekyll-theme.png)
-
-This theme is responsive.
-
-![webjeda hagura responsive jekyll theme]({{site.baseurl}}/assets/images/hagura-responsive.png)
-
-
-## Development
-Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
-
-
-## License
-MIT License 
-
-
-### Version 1.0
-* Description along with the title in the index page.
-* Removed ugly theme switch icon and added text link.
+![40% center](https://ak0.picdn.net/shutterstock/videos/21934900/thumb/7.jpg)
 
