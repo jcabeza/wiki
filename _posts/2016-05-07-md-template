@@ -1,0 +1,131 @@
+---
+layout: post
+title: MD Template
+---
+
+# Summary
+
+* Do not remove this line (it will not be displayed) 
+{:toc}
+
+# Menu 1
+
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at https://username.github.io/hagura/
+
+<img src="https://img.shields.io/badge/Autor-Jos%C3%A9%20CABEZA-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
+
+# Tab 1
+
+Here's a list of XXX :
+
+| Url | Description |
+|---- | ---------
+| [Name](https://) | Description 🔥 |
+| [Name](https://) | Description 🔥 |
+| [Name](https://) | Description 🔥 |
+
+OR
+
+| Title 1          | Title 2          | Title 3         | Title 4         |
+|------------------|------------------|-----------------|-----------------|
+| First entry      | Second entry     | Third entry     | Fourth entry    |
+| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
+| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
+| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
+
+# Content 1
+
+![Screenshot](/assets/screenshot.jpg)
+![40% center](https://url.com/picture.jpg)
+You can [get the PDF](/assets/mydoc.pdf) directly.
+
+## Embedded Content
+
+YouTube, using the `embed.html` include.
+{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+
+# Commit Messages
+
+[Github][ShareDocs] Update
+[Github][ShareDocs] New File
+[Github][ShareDocs] Update File
+[Github][ShareDocs] Delete File
+[Github][ShareDocs] Add New Links
+
+# Blockquotes
+
+Single line :
+
+> Blockquotes single line.
+
+Multiline :
+
+> Blockquotes multi line one.
+>
+> Blockquotes multi line two.
+>
+> Blockquotes multi line three.
+
+## Horizontal Rule
+
+---
+
+----------
+
+# Tags
+
+<img src="https://img.shields.io/badge/Autor-Jos%C3%A9%20CABEZA-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Raspberry PI-3-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Debian-10-green?style=for-the-badge" />
+
+# Code & Syntax highlighting
+
+Syntax highlighting works automatically when specifying the language after the backticks.
+
+This would be rendered as:
+
+```javascript
+function foo () {
+    return "bar";
+}
+```
+
+# Code to be tested
+
+Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it.
+Adding the parameter `linenos` will show source lines besides the code.
+
+{% highlight c %}
+
+static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
+{
+    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
+    int64_t enabled = admin->asyncEnabled;
+    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
+    Admin_sendMessage(&d, txid, admin);
+}
+
+{% endhighlight %}
+
+
+# Tips, tricks, hacks, and secrets
+
+https://github.blog/2020-04-02-github-protips-tips-tricks-hacks-and-secrets-from-vitor-monteiro/
+
+https://medium.com/discord-france/le-markdown-c60ac99abbfd
+
+https://alex-d.github.io/Trumbowyg/demos/#core-dark-theme
+
+https://pandao.github.io/editor.md/en.html
+
+https://www.markdownguide.org/basic-syntax
+
+https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/
+
+# Comming wiki
+
+![40% center](https://ak0.picdn.net/shutterstock/videos/21934900/thumb/7.jpg)
