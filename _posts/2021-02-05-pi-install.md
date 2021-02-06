@@ -100,7 +100,13 @@ Reboot after updates if necessary.
 For install basics packages run :
 
 ```bash
-sudo apt install htop locate git vim pv -y
+sudo apt install htop locate git vim pv curl -y
+```
+
+Optional packages :
+
+```bash
+sudo apt install mc screen -y
 ```
 
 # RPi Basic System Security
