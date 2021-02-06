@@ -6,5 +6,5 @@ published: true
 ---
 
 <br>
-<p align="center"><p align="center">Hosted on GitHub Pages ❤</p> 
+<p align="center"><p align="center">Hosted on Github Pages ❤</p> 
     
