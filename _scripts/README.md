@@ -6,6 +6,6 @@
 - [ ] NTP
 - [ ] Banner / Motd
 - [ ] Restart after hostname change
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Debian release : lsb_release -a
+- [ ] IpTables / UFW
+- [ ] Others
