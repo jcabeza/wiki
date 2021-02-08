@@ -18,6 +18,8 @@ echo -e "\033[31m ------------> Are you sure you want to run this script ? \033[
 echo -e "\033[31m ------------> W A R N I N G ! \033[0m"
 echo -e ""
 
+sleep 5
+
 # FUNCTION LIST
 
 function osupdates { # Update packages and Upgrade system
