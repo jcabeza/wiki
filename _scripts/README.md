@@ -1,13 +1,11 @@
 # TODO
 
-[] -> hostnamectl
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] hostnamectl
+- [ ] Useradd / Userdell
+- [ ] Sudoers
+- [ ] NTP
+- [ ] Banner / Motd
+- [ ] Restart after hostname change
+- [ ] 
+- [ ] 
+- [ ] 
