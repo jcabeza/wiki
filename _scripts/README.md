@@ -1,3 +1,3 @@
 # TODO
 
-[ ] -> hostnamectl
+[] -> hostnamectl
