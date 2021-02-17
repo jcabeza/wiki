@@ -1,1 +1,25 @@
 # Replacing the Freebox with a router
+
+---
+layout: post
+title:  "Freebox Replacing"
+---
+
+Replacing the Freebox with a Ubiquiti EdgeRouter.
+
+* Do not remove this line (it will not be displayed) 
+{:toc}
+
+# Ubiquiti EdgeRouter X
+
+Please take a look at the following documentation for the installation and configuration of your Raspberri Pi :
+
+https://jcabeza.github.io/wiki/2021/02/05/pi-install.html
+
+# Freebox Configuration Check
+
+Server Model & installation :
+
+```bash
+Model : KS-3 - Atom N2800 - 4GB DDR3 1066 MHz - 2 To SATA
+```
