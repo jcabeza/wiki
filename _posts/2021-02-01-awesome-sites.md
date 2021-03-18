@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🚀 Awesome Sites"
+title:  "❤️ Awesome Sites"
 ---
 
-# ❤️ A List of Useful and Awesome Sites
+# A List of Useful and Awesome Sites.
 
 ## Browser
 

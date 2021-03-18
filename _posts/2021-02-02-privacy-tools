@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "🚀 Training Sites"
+title:  "🚀 Privacy Tools"
 ---
 
-# A List of Training Sites.
+# A List of Privacy Tools and some interesting sites.
 
-## Azure
+## Browser
 
 [Microsoft Learn](https://docs.microsoft.com/fr-fr/learn/)
 
@@ -23,14 +23,12 @@ title:  "🚀 Training Sites"
 
 ## Kubernetes
 
-[Katacoda (Kubernetes)](https://www.katacoda.com/courses/kubernetes)
 
-[Minikube (k8s)](https://minikube.sigs.k8s.io/)
+
 
 ## Ebooks
 
-[Goalkicker](https://goalkicker.com/)
+
 
 ## Others
 
-[Katacoda](https://www.katacoda.com/learn)
