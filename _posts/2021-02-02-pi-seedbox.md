@@ -3,7 +3,7 @@ layout: post
 title:  "💻 Install Seedbox"
 ---
 
-> Seedbox installation on linux debian 10 (Raspbian) and configuration.
+## Seedbox installation on linux debian 10 (Raspbian) and configuration.
 
 * Do not remove this line (it will not be displayed) 
 {:toc}

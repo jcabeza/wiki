@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Training Sites"
 ---
 
-# ❤️ A List of Training Sites
+# A List of Training Sites.
 
 ## Azure
 
