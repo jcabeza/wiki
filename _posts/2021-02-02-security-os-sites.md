@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Security OS Sites"
+title:  "⚔️ Security OS Sites"
 ---
 
-# ⚔️ Security OS Sites List
+# A List of Security OS Sites.
 
 [Kali Linux 2020.1](https://www.kali.org/)
 

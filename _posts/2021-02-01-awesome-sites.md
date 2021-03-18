@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Awesome Sites"
+title:  "🚀 Awesome Sites"
 ---
 
-# Awesome Sites List
+# ❤️ A List of Useful and Awesome Sites
 
-<!-- Here's a list of Software and tools i use : -->
 ## Browser
 
 [Microsoft Edge](https://www.microsoft.com/fr-fr/edge)
