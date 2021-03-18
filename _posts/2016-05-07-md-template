@@ -87,6 +87,8 @@ Multiline :
 <img src="https://img.shields.io/badge/Raspberry PI-3-ff69b4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Debian-10-green?style=for-the-badge" />
 
+[<img src="https://www.torproject.org/static/images/tor-logo@2x.png?h=16ad42bc" width="150"/>](https://www.torproject.org/)
+
 # Code & Syntax highlighting
 
 Syntax highlighting works automatically when specifying the language after the backticks.
