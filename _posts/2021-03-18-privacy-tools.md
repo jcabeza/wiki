@@ -4,7 +4,7 @@ title:  "⚔️ Privacy Tools"
 ---
 
 <p align="center">
-    <h1 align="center">A List of Privacy Tools and some interesting sites</h1>
+    <h1 align="center">A List of Privacy Tools and some interesting sites.</h1>
 </p>
 
 <br>
