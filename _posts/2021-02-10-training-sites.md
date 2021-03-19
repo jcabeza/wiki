@@ -3,7 +3,11 @@ layout: post
 title:  "🚀 Training Sites"
 ---
 
-# A List of Training Sites.
+<p align="center">
+    <h1 align="center">A List of Training Sites.</h1>
+</p>
+
+<br>
 
 ## ☁️ Azure
 
