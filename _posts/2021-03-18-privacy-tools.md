@@ -71,3 +71,6 @@ title:  "⚔️ Privacy Tools"
 
 ## 📌 Links
 
+[Freedom Press](https://freedom.press/)
+
+[Free Software Foundation](https://www.fsf.org/)

@@ -419,5 +419,30 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 ## 🧪 <span style="color: #fb4141"> To be tested </span>
 
-👽 it's coming...
+[Lnav Log](https://lnav.org/)
 
+[Desktophut](https://www.desktophut.com/)
+
+[DevHints](https://devhints.io/)
+
+[OnlyOffice](https://www.onlyoffice.com/fr)
+
+[Onion OS](https://securityonionsolutions.com/software/)
+
+[Generated Photos](https://generated.photos/)
+
+[Slate](https://slate.host/)
+
+[Movie Flex](https://github.com/othneildrew/Movie-Flex)
+
+[oDrive](https://www.odrive.com/)
+
+[Haproxy-wi](https://haproxy-wi.org/)
+
+[Asciinema](https://asciinema.org/)
+
+[OverSec](https://www.oversec.io/)
+
+[Zorin OS](https://zorinos.com/)
+
+[USB Lock Kit](https://www.usblockit.com/)
