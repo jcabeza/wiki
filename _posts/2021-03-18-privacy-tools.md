@@ -4,7 +4,6 @@ title:  "⚔️ Privacy Tools"
 ---
 
 <p align="center">
-    <img src="assets/images/smiley.png" width="100" height="100" />
     <h1 align="center">A List of Privacy Tools and some interesting sites</h1>
 </p>
 
