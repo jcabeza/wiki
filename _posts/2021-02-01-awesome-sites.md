@@ -125,9 +125,9 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [Send Tresorit](https://send.tresorit.com/)
 
-[Nextcloud](https://nextcloud.com/) - Gestion de fichier & Co
+[Nextcloud](https://nextcloud.com/)
 
-[Filestash](https://www.filestash.app/) - Files tools
+[Filestash](https://www.filestash.app/)
 
 ## 📂 Directory Reader / Framework
 
@@ -337,6 +337,14 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [ClamAV](https://www.clamav.net/)
 
+## 💻 Raspberry Pi
+
+[Pi-hole](https://pi-hole.net/)
+
+[HAProxy](https://www.haproxy.com/fr/)
+
+[PiVPN](https://pivpn.io/)
+
 ## 🧪 Virtualization
 
 [Hyper-V on Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v#:~:text=%20Enable%20the%20Hyper-V%20role%20through%20Settings%20,4%20Select%20Hyper-V%20and%20click%20OK.%20More)
@@ -403,4 +411,7 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [Materiel.net](https://www.materiel.net/)
 
-## 🧪 To be tested
+## 🧪 <span style="color: #fb4141"> To be tested </span>
+
+👽 it's coming...
+
