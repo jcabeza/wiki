@@ -1,34 +1,47 @@
 ---
 layout: post
-title:  "🚀 Privacy Tools"
+title:  "⚔️ Privacy Tools"
 ---
 
 # A List of Privacy Tools and some interesting sites.
 
 ## Browser
 
-[Microsoft Learn](https://docs.microsoft.com/fr-fr/learn/)
+## ⛓ Encryption
 
-## Git
+[Cryptomator (Data Encrypts)](https://cryptomator.org/)
 
-[Git introduction](https://raspberry-pi.fr/cours/slides-git.html#/)
+[VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/)
 
-[Github Lab](https://lab.github.com/)
+## 🛡 VPN
 
-## Linux
+[OpenVPN](https://openvpn.net/)
 
-[Linux introduction](https://raspberry-pi.fr/cours/slides-linux-introduction.html#/)
+[ProtonVPN](https://protonvpn.com/)
 
-[Explainshell](https://www.explainshell.com/)
+## 🔑 Password
 
-## Kubernetes
+[KeePassX (Passwords Database)](https://keepassxc.org/)
 
+[KeePassDX (Passwords Database for Android)](https://www.keepassdx.com/)
 
+[Bitwarden](https://bitwarden.com/)
 
+[One Time Secret](https://onetimesecret.com/)
 
-## Ebooks
+## 🧹 Wipe File
 
+[WipeFile (Secure Erase)](https://www.gaijin.at/en/software/wipefile)
 
+# ✂️ Pastbin
 
-## Others
+[PrivateBin](https://privatebin.net/)
+
+## 📹 Youtube
+
+[Vanced](https://vancedapp.com/)
+
+[NewPipe](https://newpipe.net/)
+
+## 📌 Links
 
