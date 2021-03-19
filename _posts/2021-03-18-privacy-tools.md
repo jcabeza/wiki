@@ -31,7 +31,7 @@ title:  "⚔️ Privacy Tools"
 
 [Signal](https://www.signal.org/fr/)
 
-## 🛡 VPN
+## 🗡️ VPN
 
 [OpenVPN](https://openvpn.net/)
 
