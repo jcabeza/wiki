@@ -3,7 +3,12 @@ layout: post
 title:  "💻 Install Raspberry Pi"
 ---
 
-Raspberry PI installation on linux debian 10 (Raspbian) and configuration.
+<p align="center">
+    <h1 align="center">Raspberry PI installation on linux debian 10 (Raspbian) and configuration.
+</h1>
+</p>
+
+<br>
 
 * Do not remove this line (it will not be displayed) 
 {:toc}
