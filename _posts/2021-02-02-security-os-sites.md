@@ -3,7 +3,11 @@ layout: post
 title:  "⚔️ Security OS Sites"
 ---
 
-# A List of Security OS Sites.
+<p align="center">
+    <h1 align="center">A List of Security OS Sites.</h1>
+</p>
+
+<br>
 
 [Kali Linux 2020.1](https://www.kali.org/)
 
