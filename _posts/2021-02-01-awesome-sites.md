@@ -37,6 +37,10 @@ title:  "❤️ Awesome Sites"
 
 [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10)
 
+[Windows Subsystem for Linux (Optimization)](https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74)
+
+[WSL / ZSH Terminal Environment (Readme)](https://fcbrossard.net/blog/wsl-ubuntu-zsh-hyper-terminal)
+
 [Hyper.js (Terminal)](https://hyper.is/)
 
 [Oh My Zsh](https://ohmyz.sh/)
@@ -44,6 +48,10 @@ title:  "❤️ Awesome Sites"
 [Oh My Zsh Powerlevel10k Theme](https://github.com/romkatv/powerlevel10k)
 
 [Visual Studio Code](https://code.visualstudio.com/)
+
+VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs
+
+[Shades-of-Purple-VSCode (VSCode Theme)](https://nicedoc.io/ahmadawais/Shades-of-Purple-VSCode)
 
 [DevDocs](https://devdocs.io/)
 
@@ -95,9 +103,11 @@ title:  "❤️ Awesome Sites"
 
 [Tresorit](https://tresorit.com/fr)
 
-## 📝 Markdown Editors / Ascii
+## 📝 Editors / Markdown / Ascii
 
 [Mark Text](https://marktext.app/)
+
+[Noteppad++ (Notepad Editor)](https://notepad-plus-plus.org/)
 
 [asciiflow](https://asciiflow.com/)
 
@@ -151,6 +161,32 @@ title:  "❤️ Awesome Sites"
 
 [Pixls](https://pixls.us/)
 
+## 📷 Photoshop / Icons Library / Guide line
+
+[Guide Line Colour](http://guidelinecolour.com/?p=tools/guidelinecolours/)
+
+[Live Weave](https://liveweave.com/colors/index.html)
+
+[Web Colour Data](http://webcolourdata.com/) 
+
+[Flaticon](https://www.flaticon.com/)
+
+[Iconsvg](https://iconsvg.xyz/)
+
+[Icones8](https://icones8.fr/icons)
+
+[Instant Logo Search](http://instantlogosearch.com/)
+
+[Freepik](https://www.freepik.com/)
+
+[Photopea](https://www.photopea.com/)
+
+[Pixlr](https://pixlr.com/fr/)
+
+[Krita](https://krita.org/en/download/krita-desktop/)
+
+[PSD Reader](https://maxogden.github.io/psd.js/)
+
 ## 📹 Video
 
 [OBS Studio](https://obsproject.com/fr/)
@@ -186,6 +222,20 @@ title:  "❤️ Awesome Sites"
 [Estract Pics](https://extract.pics/)
 
 [Convertio](https://convertio.co/fr/png-ico/)
+
+## 💎 3D
+
+[Blender](https://www.blender.org/)
+
+[Quixel](https://quixel.com/gallery)
+
+## 🎮 Gaming / Emulator
+
+[Lakka](http://lakka.tv/)
+
+[RecalBox](https://www.recalbox.com/)
+
+[Emupedia](https://emupedia.net/beta/)
 
 ## 🧰 Admin Tools
 
@@ -293,75 +343,42 @@ title:  "❤️ Awesome Sites"
 
 [Philips HUE](https://www.philips-hue.com/fr-fr)
 
-## Time Management
-
-[Pomotroid](https://splode.github.io/pomotroid/)
-
-
-
-# __________________________________________________________
-
-# Navigator
-
- [Brave](https://brave.com/) 🔥
-
- [Microsoft Edge](https://www.microsoft.com/fr-fr/edge) 🔥
-
-# DevOps Tools
-
-[Hyper.js (Terminal)](https://hyper.is/)
-
-[Windows Subsystem for Linux (WSL2)](https://scotch.io/bar-talk/trying-the-new-wsl-2-its-fast-windows-subsystem-for-linux)
-
-[Windows Subsystem for Linux (Optimization)](https://medium.com/@leandrocrs/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74)
-
-[WSL / ZSH Terminal Environment (Readme)](https://fcbrossard.net/blog/wsl-ubuntu-zsh-hyper-terminal)
-
-[Oh My Zsh (Open source Framework)](https://ohmyz.sh/)
-
-[Visual Studio Code (Code Editing)](https://code.visualstudio.com/)
-
-VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Markdown Docs
-
-[Shades-of-Purple-VSCode (VSCode Theme)](https://nicedoc.io/ahmadawais/Shades-of-Purple-VSCode)
-
-
-# Security
-
-[Cryptomator (Data Encrypts)](https://cryptomator.org/)
-
-[WipeFile (Secure Erase)](https://www.gaijin.at/en/software/wipefile)
-
-[KeePassX (Passwords Database)](https://keepassxc.org/)
-
-[KeePassDX (Passwords Database for Android)](https://www.keepassdx.com/)
-
-# Utility
-
-[MobaXterm (Terminal)](https://mobaxterm.mobatek.net/)
-
-[Noteppad++ (Notepad Editor)](https://notepad-plus-plus.org/)
-
-[Screencast-o-matic (Video Recording and Editing)](https://screencast-o-matic.com/)
-
-[Free Cam (Video Recording and Editing)](https://www.freescreenrecording.com/)
-
-[PowerToys](https://github.com/microsoft/PowerToys/releases)
-
-[XMeters (Taskbar System Stats)](https://entropy6.com/xmeters/)
-
-[Lightkey (AI-powered Text Predictions)](https://www.lightkey.io/)
-
-[Listary (Search utility for Windows)](https://www.listary.com/)
-
-[Mark Text (Markdown Note)](https://marktext.app/)
-
-[Rufus (Create bootable USB drives)](https://rufus.ie/)
-
-[Glogg (Smart Log Explorer)](https://glogg.bonnefon.org/)
-# Configuration
-
-[Chocolatey (Package Manager for Windows)](https://chocolatey.org/)
-# Others
+## ⏱ Time Management
 
 [Pomotroid (Pomodoro Timer)](https://splode.github.io/pomotroid/)
+
+## 😜 Funny
+
+[Papertoys](https://www.paper-toy.fr/)
+
+[Geektyper](http://geektyper.com/)
+
+[Archive.org](https://archive.org/)
+
+[dpi.lv](http://dpi.lv/)
+
+[Windows XP React.js](https://winxp.now.sh/)
+
+[Zenphoton](https://zenphoton.com/)
+
+[Weavesilk](http://weavesilk.com/)
+
+[Harmony](https://mrdoob.com/projects/harmony/#web)
+
+[WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+
+## ⚖️ Cryptocurrency
+
+[Coinbase](https://www.coinbase.com/)
+
+[Coinbase Wallet](https://wallet.coinbase.com/)
+
+[Binance](https://www.binance.com/fr)
+
+## 🛒 Purchase
+
+[Amazon.fr](https://www.amazon.fr/)
+
+[Materiel.net](https://www.materiel.net/)
+
+## 🧪 To be tested
