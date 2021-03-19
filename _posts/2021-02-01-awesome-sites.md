@@ -95,9 +95,97 @@ title:  "❤️ Awesome Sites"
 
 [Tresorit](https://tresorit.com/fr)
 
-## Markdown Editors
+## 📝 Markdown Editors / Ascii
 
-https://marktext.app/
+[Mark Text](https://marktext.app/)
+
+[asciiflow](https://asciiflow.com/)
+
+[ascii-art](https://textfancy.com/ascii-art/)
+
+## 📄 File Management
+
+[Swiss Transfert](https://www.swisstransfer.com/fr)
+
+[Send Tresorit](https://send.tresorit.com/)
+
+[Nextcloud](https://nextcloud.com/) - Gestion de fichier & Co
+
+[Filestash](https://www.filestash.app/) - Files tools
+
+## 📂 Directory Reader / Framework
+
+[DirectoryLister](https://github.com/DirectoryLister/DirectoryLister.git)
+
+[Reveal.js](https://lab.hakim.se/reveal-js-leap/#/)
+
+[Apaxy](https://oupala.github.io/apaxy/)
+
+[Naked Pages](https://github.com/krisanalfa/naked-pages)
+
+## 📝 Wiki
+
+[Wiki.js](https://wiki.js.org/)
+
+[BookStack](https://www.bookstackapp.com/)
+
+[BookStack Theme](https://github.com/domainzero/bookstack-dark-theme)
+
+[MatterWiki](http://matterwiki.com/)
+
+## 📢 Spell Checker
+
+[Antidote](https://www.antidote.info/fr/antidote-10)
+
+[LanguageTool](https://languagetool.org/fr/)
+
+## 📷 Photo
+
+[RawTherapee](https://rawtherapee.com/)
+
+[Darktable](https://darktable.fr/)
+
+[Sony Remote Camera Tool](https://support.d-imaging.sony.co.jp/app/remotecameratool/en/)
+
+[colourise](https://colourise.sg/)
+
+[Pixls](https://pixls.us/)
+
+## 📹 Video
+
+[OBS Studio](https://obsproject.com/fr/)
+
+[simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter.git)
+
+[Shotcut](https://www.shotcut.org/)
+
+## 🎬 Multimedia / Media Center
+
+[Emby](https://emby.media/)
+
+[Kodi](https://kodi.tv/)
+
+[Plex](https://www.plex.tv/your-media/)
+
+[Imagotv](https://imagotv.fr/)
+
+[Leonflix](https://leonflix.net/)
+
+## 🖼 Picture / Picture Library
+
+[TinyEye](https://tineye.com/)
+
+[Pixabay](https://pixabay.com/fr/)
+
+[Pexels](https://www.pexels.com/fr-fr/)
+
+[Unsplash](https://unsplash.com/)
+
+[Stocksnap.io](https://stocksnap.io/popular)
+
+[Estract Pics](https://extract.pics/)
+
+[Convertio](https://convertio.co/fr/png-ico/)
 
 ## 🧰 Admin Tools
 
@@ -123,19 +211,91 @@ https://marktext.app/
 
 [Server Monitoring](https://servermonitoring.me/)
 
-##
+## 🧰 Network Tools
 
-##
+[Wireshark](https://www.wireshark.org/)
 
+[Alcasar](http://www.alcasar.net/)
 
+[Advanced IP Scanner](https://www.advanced-ip-scanner.com/fr/)
 
+[Netcat](http://netcat.sourceforge.net/)
 
+[Snort](https://www.snort.org/)
 
+[Dig](http://www.isc.org/downloads)
 
+[Dig for Windows](https://www.configserverfirewall.com/windows-10/dig-command-windows/)
 
+## 🧰 Web Tools
 
+[httpie](https://github.com/jakubroztocil/httpie)
 
+## ⚔️ Security
 
+[PrivateBin](https://privatebin.info/)
+
+[One Time Secret](https://onetimesecret.com/)
+
+[Uncomplicated FireWall (UFW)](https://doc.ubuntu-fr.org/ufw)
+
+[Certbot Let's Encrypt](https://certbot.eff.org/)
+
+[Fail2ban](https://doc.ubuntu-fr.org/Fail2ban)
+
+[Wireguard](https://www.wireguard.com/)
+
+[OpenVPN](https://openvpn.net/)
+
+[Pockint](https://github.com/netevert/pockint.git)
+
+[DFIR ORC](https://dfir-orc.github.io/)
+
+[Securi.net](https://sitecheck.sucuri.net/)
+
+[DNSDumpster](https://dnsdumpster.com/)
+
+[DBAN](https://dban.org/)
+
+[Lynis](https://cisofy.com/lynis/)
+
+[AdGuard](https://adguard.com/fr/welcome.html)
+
+[IP Fire](https://www.ipfire.org/)
+
+[ClamAV](https://www.clamav.net/)
+
+## 🧪 Virtualization
+
+[Hyper-V on Windows 10](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v#:~:text=%20Enable%20the%20Hyper-V%20role%20through%20Settings%20,4%20Select%20Hyper-V%20and%20click%20OK.%20More)
+
+[VirtualBox](https://www.virtualbox.org/)
+
+[VirtualBox Images](https://www.osboxes.org/virtualbox-images/)
+
+[Windows 10 images](https://developer.microsoft.com/fr-fr/windows/downloads/virtual-machines/)
+
+## 🐳 Containers
+
+[Docker for Windows](https://docs.docker.com/docker-for-windows/)
+
+[Docker Desktop](https://www.docker.com/products/docker-desktop)
+
+[Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/)
+
+[Kitematic by Docker](https://kitematic.com/)
+
+## 💡 Domotics
+
+[HueBlog](https://hueblog.com/)
+
+[Amazon Alexa](https://developer.amazon.com/fr-FR/alexa)
+
+[Philips HUE](https://www.philips-hue.com/fr-fr)
+
+## Time Management
+
+[Pomotroid](https://splode.github.io/pomotroid/)
 
 
 
