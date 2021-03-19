@@ -4,7 +4,7 @@ title:  "❤️ Awesome Sites"
 ---
 
 <p align="center">
-    <img src="/assets/images/smiley.png" width="100" height="100" />
+    <img src="wiki/assets/images/smiley.png" width="100" height="100" />
     <h1 align="center">A List of Useful and Awesome Sites</h1>
 </p>
 
