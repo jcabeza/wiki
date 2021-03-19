@@ -5,7 +5,7 @@ title:  "❤️ Awesome Sites"
 
 # A List of Useful and Awesome Sites.
 
-## Browser
+## 🌍 Browser
 
 [Microsoft Edge](https://www.microsoft.com/fr-fr/edge)
 
@@ -21,6 +21,8 @@ title:  "❤️ Awesome Sites"
 
 ## 💻 Windows
 
+[PowerToys](https://github.com/microsoft/PowerToys/releases)
+
 [XMeters](https://entropy6.com/xmeters/)
 
 [WinFR](https://www.microsoft.com/fr-fr/p/windows-file-recovery/9n26s50ln705?activetab=pivot:overviewtab)
@@ -33,7 +35,11 @@ title:  "❤️ Awesome Sites"
 
 [Rain Wallpaper](http://rainysoft.cc/rainwallpaper.html)
 
-## DevOps
+[Lightkey (AI-powered Text Predictions)](https://www.lightkey.io/)
+
+[Listary (Search utility for Windows)](https://www.listary.com/)
+
+## 🦾 DevOps
 
 [Windows Subsystem for Linux (WSL2)](https://docs.microsoft.com/fr-fr/windows/wsl/install-win10)
 
@@ -61,7 +67,7 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [GitLab](https://about.gitlab.com/)
 
-## Github
+## 🐙 Github
 
 [Tig for Git](https://jonas.github.io/tig/)
 
@@ -79,13 +85,13 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [Bitwarden](https://bitwarden.com/)
 
-## PDF Tools
+## 📑 PDF Tools
 
 [I Love PDF](https://www.ilovepdf.com/)
 
 [AvePDF](https://avepdf.com/fr)
 
-## RSS Readers
+## 📖 RSS Readers
 
 [Feedly](https://feedly.com/)
 
@@ -95,7 +101,7 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [Discord](https://discord.com/download)
 
-## Collaborative
+## 👫🏻 Collaborative
 
 [Microsoft OneDrive](https://www.microsoft.com/fr-fr/microsoft-365/onedrive/online-cloud-storage)
 
@@ -191,6 +197,10 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [OBS Studio](https://obsproject.com/fr/)
 
+[Screencast-o-matic (Video Recording and Editing)](https://screencast-o-matic.com/)
+
+[Free Cam (Video Recording and Editing)](https://www.freescreenrecording.com/)
+
 [simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter.git)
 
 [Shotcut](https://www.shotcut.org/)
@@ -239,6 +249,8 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 ## 🧰 Admin Tools
 
+[MobaXterm (Terminal)](https://mobaxterm.mobatek.net/)
+
 [Medicat](https://gbatemp.net/threads/medicat-dvd-a-multiboot-linux-dvd.361577/)
 
 [Hiren's BootCD](https://www.hirensbootcd.org/) 
@@ -254,6 +266,10 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 [Cockpit](https://cockpit-project.org/)
 
 [Adminer](https://www.adminer.org/)
+
+[Glogg (Smart Log Explorer)](https://glogg.bonnefon.org/)
+
+[Rufus (Create bootable USB drives)](https://rufus.ie/)
 
 ## 🧰 Monitoring Tools
 
@@ -283,9 +299,15 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 ## ⚔️ Security
 
+[Cryptomator (Data Encrypts)](https://cryptomator.org/)
+
+[VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/)
+
 [PrivateBin](https://privatebin.info/)
 
 [One Time Secret](https://onetimesecret.com/)
+
+[WipeFile (Secure Erase)](https://www.gaijin.at/en/software/wipefile)
 
 [Uncomplicated FireWall (UFW)](https://doc.ubuntu-fr.org/ufw)
 
