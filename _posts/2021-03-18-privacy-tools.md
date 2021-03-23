@@ -9,6 +9,16 @@ title:  "⚔️ Privacy Tools"
 
 <br>
 
+## 💻 Operating System
+
+[Tails](https://tails.boum.org/)
+
+[Whonix](https://www.whonix.org/)
+
+[W10 Privacy](https://www.privacytools.io/operating-systems/#win10)
+
+[WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
+
 ## 🌍 Browser / Search
 
 [Brave](https://brave.com/fr/)
@@ -56,6 +66,8 @@ title:  "⚔️ Privacy Tools"
 [PrivateBin](https://privatebin.net/)
 
 [Onion Share](https://onionshare.org/)
+
+[SecureDrop](https://securedrop.org/)
 
 ## 📹 Youtube
 
