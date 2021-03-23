@@ -207,6 +207,8 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [simple-video-cutter](https://github.com/bartekmotyl/simple-video-cutter.git)
 
+[VidCutter](https://github.com/ozmartian/vidcutter)
+
 [Shotcut](https://www.shotcut.org/)
 
 ## 🎬 Multimedia / Media Center
