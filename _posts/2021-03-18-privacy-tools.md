@@ -73,6 +73,12 @@ title:  "⚔️ Privacy Tools"
 
 [Prism Break](https://prism-break.org/en/)
 
+[PrivacyTools](https://www.privacytools.io/)
+
 [Freedom Press](https://freedom.press/)
 
 [Free Software Foundation](https://www.fsf.org/)
+
+[Tor Hidden Wiki](https://thehiddenwiki.org/)
+
+
