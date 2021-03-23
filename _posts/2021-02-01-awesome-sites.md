@@ -446,3 +446,8 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 [Zorin OS](https://zorinos.com/)
 
 [USB Lock Kit](https://www.usblockit.com/)
+
+https://winworldpc.com/library/operating-systems
+
+https://lottiefiles.com/
+
