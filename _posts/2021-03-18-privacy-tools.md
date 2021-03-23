@@ -71,6 +71,8 @@ title:  "⚔️ Privacy Tools"
 
 ## 📌 Links
 
+[Prism Break](https://prism-break.org/en/)
+
 [Freedom Press](https://freedom.press/)
 
 [Free Software Foundation](https://www.fsf.org/)
