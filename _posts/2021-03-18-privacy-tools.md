@@ -95,4 +95,4 @@ title:  "⚔️ Privacy Tools"
 
 [Tor Hidden Wiki](https://thehiddenwiki.org/)
 
-
+[Who Tracks Me](https://whotracks.me/)
