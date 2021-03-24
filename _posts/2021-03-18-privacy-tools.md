@@ -83,6 +83,8 @@ title:  "⚔️ Privacy Tools"
 
 ## 📌 Links
 
+[IVPN Privacy Guides](https://www.ivpn.net/privacy-guides)
+
 [Prism Break](https://prism-break.org/en/)
 
 [PrivacyTools](https://www.privacytools.io/)
