@@ -305,6 +305,8 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [httpie](https://github.com/jakubroztocil/httpie)
 
+[KeyStore Explorer](https://keystore-explorer.org/index.html)
+
 ## ⚔️ Security
 
 [Cryptomator (Data Encrypts)](https://cryptomator.org/)
