@@ -41,6 +41,8 @@ title:  "⚔️ Privacy Tools"
 
 [Signal](https://www.signal.org/fr/)
 
+[Telegram](https://telegram.org/)
+
 ## 🗡️ VPN
 
 [OpenVPN](https://openvpn.net/)
