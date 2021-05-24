@@ -133,6 +133,10 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [Filestash](https://www.filestash.app/)
 
+## 📄 File Restore
+
+[Recuva](http://www.recuva.fr/)
+
 ## 📂 Directory Reader / Framework
 
 [DirectoryLister](https://github.com/DirectoryLister/DirectoryLister.git)
