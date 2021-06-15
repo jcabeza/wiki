@@ -215,6 +215,10 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [Shotcut](https://www.shotcut.org/)
 
+[Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve/)
+
+[Leonflix](https://leonflix.net/)
+
 ## 🎬 Multimedia / Media Center
 
 [Emby](https://emby.media/)
