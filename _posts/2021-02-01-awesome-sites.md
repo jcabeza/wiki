@@ -215,9 +215,9 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [Shotcut](https://www.shotcut.org/)
 
-[Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve/)
+[LosslessCut](https://mifi.github.io/lossless-cut/)
 
-[Leonflix](https://leonflix.net/)
+[Davinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve/)
 
 ## 🎬 Multimedia / Media Center
 
@@ -230,6 +230,8 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 [Imagotv](https://imagotv.fr/)
 
 [Leonflix](https://leonflix.net/)
+
+[Captvty](https://captvty.fr/)
 
 ## 🖼 Picture / Picture Library
 
