@@ -79,6 +79,8 @@ VSCode Plugins : Terraform, Ansible, GitLens, Git History, Draw.io, Polacode, Ma
 
 [GetEmoji](https://getemoji.com/)
 
+[Readme.so](https://readme.so/fr)
+
 ## 🔑 Password
 
 [Keepass](https://keepass.info/)
