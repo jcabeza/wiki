@@ -9,6 +9,28 @@ title: "Web Design Sites"
 
 <br>
 
-## 🖌 Tools
+## 🛠 Tools
+
+https://pfpmaker.com/
+
+https://readme.so/fr
+
+https://10015.io/
 
 https://getemoji.com/
+
+https://iconduck.com/
+
+https://codemyui.com/
+
+https://designmodo.github.io/Flat-UI/
+
+## 🛠 Photoshop
+
+https://freebiesupply.com/
+
+## ✔️ Test SSL
+
+https://www.ssllabs.com/ssltest/analyze.html
+
+https://www.haveibeenexpired.com/
